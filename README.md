@@ -5,9 +5,8 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Hannah Faurschou | 144450 |
+| Caya Isaksen | 145615 |
 
 ***
 
